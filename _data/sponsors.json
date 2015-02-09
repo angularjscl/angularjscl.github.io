@@ -1,0 +1,27 @@
+[
+  {
+    "name" : "Centraal",
+    "img"  : "centraal.png",
+    "url" : "http://centraal.com/",
+  },
+  {
+    "name" : "Google Developers",
+    "img"  : "gd.png",
+    "url" : "#",
+  },
+  {
+    "name" : "Xpertys",
+    "img"  : "xpertys.png",
+    "url" : "http://xpertys.com.mx/",
+  },
+  {
+    "name" : "Indatcom",
+    "img" : "indatcom.png",
+    "url" : "http://indatcom.mx",
+  },
+  {
+    "name" : "Qroworking",
+    "img" : "qroworking.png",
+    "url" : "http://qroworking.mx",
+  },
+]

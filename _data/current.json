@@ -1,0 +1,56 @@
+[
+  {
+    "date":"Febrero 21",
+    "full_date" : "21 de Febrero, 2015",
+    "history" : "Febrero 2015",
+    "hour" : "10:00",
+    "icon" : "cdmx.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/219944840/",
+    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
+    "map" : "https://goo.gl/maps/VrCJj",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "6to",
+    "speakers" : [
+      {
+        "twitter" : "eusoj"
+      }
+    ]
+  },
+  {
+    "date":"Febrero 21",
+    "full_date" : "21 de Febrero, 2015",
+    "history" : "Febrero 2015",
+    "hour" : "10:00",
+    "icon" : "gdl2.png",
+    "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220079806/",
+    "address" : "Indatcom, Lope de Vega 217, Arcos Sur, Guadalajara",
+    "map" : "https://goo.gl/maps/ikzoh",
+    "location" : "Guadalajara",
+    "location_min" : "GDL",
+    "meetup" : "2do",
+    "speakers" : [
+      {
+        "twitter" : "eusoj"
+      }
+    ]
+  },
+  {
+    "date":"Febrero 28",
+    "full_date" : "28 de Febrero, 2015",
+    "history" : "Febrero 2015",
+    "hour" : "10:00",
+    "icon" : "qro3.png",
+    "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220091911/",
+    "address" : "Qroworking, Av. Hercules Pte. No. 219 - 13, Querétaro",
+    "map"     : "https://goo.gl/maps/LmH7u",
+    "location" : "Querétaro",
+    "location_min" : "QRO",
+    "meetup" : "1er",
+    "speakers" : [
+      {
+        "twitter" : "eusoj"
+      }
+    ]
+  }
+]

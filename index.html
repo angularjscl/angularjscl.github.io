@@ -1,1 +1,119 @@
-Hello World
+---
+layout: default
+---
+
+<section class="hero-slider">
+  <ul class="slides">
+    <li class="video-header">
+      <div class="background-image-holder parallax-background">
+        <img class="background-image" alt="Background Image" src="i/febrero_2015.jpg">
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+            <img alt="logo" class="logo" src="i/logo.png">
+            {% for current in site.data.current %}
+            <span class="uppercase text-white">
+              {{ current.date}}, {{current.meetup}} Meetup {{current.location}}
+            </span>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</section>
+
+
+<section class="color-blocks">
+  {% for current in site.data.current %}
+  <div class="simple-row">
+    <div class="container">    
+      <div class="row">
+        <div class="col-md-2 text-center">
+          <i class="icon">
+            <img src="i/{{current.icon}}"/>
+          </i>
+        </div>
+
+        <div class="col-md-4">
+          <h1>{{current.meetup}} Meetup {{current.location_min}}</h1>
+          <p>
+            <b>{{current.full_date}}.</b><br>
+            <b>Hora {{current.hour}} hrs.</b>
+          </p>
+        </div>
+        <div class="col-md-3">
+          <p class="location">
+            <b>Ubicación:</b> {{current.address}}
+          </p>
+          <p>
+            <a class="llegar" target="_blank" href="{{current.map}}">¿Cómo llegar?</a>
+          </p>
+        </div>
+        <div class="col-md-3">
+          <p class="button-container">
+            <a target="_blank" href="{{current.tickets}}" class="btn btn-hollow">Conseguir boleto</a>
+          </p>
+        </div>
+      </div><!--end row-->
+    </div><!--end of container-->
+  </div>
+  {% endfor %}
+</section>
+
+
+
+<a id="galeria" class="in-page-link"></a>
+
+<section class="instagram preserve-3d">
+  <div class="instafeed" data-user-name="angularjsmx">
+    <ul></ul>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div>
+          <h1 class="text-white">Galería</h1>
+          <span class="lead text-white">Descrubre más de los <strong><a class="text-white" href="http://instagram.com/angularjsmx/" target="_blank">Angularians</a></strong></span> 
+        </div>
+      </div>
+    </div><!--end of row-->
+  </div><!--end of container-->
+</section>
+
+
+
+<a id="sponsors" class="in-page-link"></a>
+
+<section class="sponsors">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h1>Sponsors</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1">
+        {% for sponsor in site.data.sponsors %}
+        <div class="col-md-4 col-sm-6 sponsor-column">
+          <div class="sponsor text-center">
+            <a href="{{sponsor.url}}" target="_blank">
+              <img alt="{{sponsor.name}}" src="sponsors/{{sponsor.img}}">
+            </a>
+          </div>
+        </div>
+        {% endfor %}
+
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <span>¿Interesado en patrocinar? <a href="mailto:josue.ggh@gmail.com">Contáctanos</a></span>
+      </div>
+    </div>
+  </div>
+</section>
