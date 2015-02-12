@@ -13,8 +13,20 @@
     "meetup" : "6to",
     "speakers" : [
       {
-        "twitter" : "eusoj"
-      }
+        "twitter" : "axnotliztak",
+	"name" : "Luis F. Lopez Espinosa",
+	"speak": "Famo.us y AngularJS",
+      },
+      {
+        "twitter" : "miguelsauza",
+        "name" : "Miguel A. Yáñez Sauza",
+        "speak": "ArcGIS y AngularJS",
+      },
+      {
+        "twitter" : "xinolou",
+        "name" : "Mario Rivas Bonilla",
+        "speak": "D3 y AngularJS",
+      },
     ]
   },
   {
@@ -31,8 +43,10 @@
     "meetup" : "2do",
     "speakers" : [
       {
-        "twitter" : "eusoj"
-      }
+        "twitter" : "",
+        "name" : "Por confirmar",
+        "speak": "Por confirmar",
+      },
     ]
   },
   {
@@ -49,8 +63,20 @@
     "meetup" : "1er",
     "speakers" : [
       {
-        "twitter" : "eusoj"
-      }
+        "twitter" : "ardroz",
+        "name" : "Daniel Rodriguez",
+        "speak": "ng-community",
+      },
+      {
+        "twitter" : "citlacom",
+        "name" : "Pablo Cerda",
+        "speak": "Angular + Drupal",
+      },
+      {
+        "twitter" : "ehobbsesquire",
+        "name" : "Evan Hobbs",
+        "speak": "Angular vs Backbone",
+      },
     ]
   }
 ]
