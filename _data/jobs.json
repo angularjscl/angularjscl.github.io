@@ -1,0 +1,20 @@
+[
+  {
+    "company" : "Vinco Orbis",
+    "position": "Front-End Developer",
+    "url" : "http://vincoorbis.com/#!/jobs/frontend-developer",
+    "location" : "Ciudad de México"
+  },
+  {
+    "company" : "Vinco Orbis",
+    "position": "Python Developer",
+    "url" : "http://vincoorbis.com/#!/jobs/python-developer",
+    "location" : "Ciudad de México"
+  },
+  {
+    "company" : "Xpertys",
+    "position": "Web Developer para Training en AngularJs",
+    "url" : "http://xpertys.com.mx/#contact",
+    "location" : "Toluca"
+  },
+]
