@@ -1212,7 +1212,15 @@ nav .container {
 .blue .speaker-description span{
   color: #03a9f4 !important;
 }
-
+H2.colorize{
+  font-size: 19px;
+  font-size: 19px !important;
+  margin-bottom: 13px;
+  color: #ff5f00;
+}
+.blue H2.colorize{
+  color: #039be5;
+}
 .block-center{
   background: #b52d30;
   left: 33.3333333%;

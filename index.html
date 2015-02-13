@@ -132,7 +132,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center">
-        <h1>Sponsors</h1>
+        <h1>Patrocinadores</h1>
       </div>
     </div>
 
@@ -197,4 +197,42 @@ layout: default
     {% endfor %}
   </div>
 </div>
+</section>
+
+<a id="organization" class="in-page-link"></a>
+
+<section class="organization">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h1>Organizadores</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1">
+        {% for organizer in site.data.organization %}
+        <div class="col-md-4 col-sm-6">
+          <div class="speaker-with-bio">
+            <div class="speaker">
+              <div class="image-holder">
+                <img class="background-image" alt="Speaker" src="speakers/{{organizer.twitter}}.jpg">
+                <div class="hover-state text-center preserve3d">
+                  <div class="social-links vertical-align">
+                    <a target="_blank" href="http://twitter.com/{{organizer.twitter}}"><i class="icon social_twitter"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="speaker-description">
+              <h2 class="colorize">{{organizer.name}}</h2>
+              <p>{{organizer.description}}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
 </section>

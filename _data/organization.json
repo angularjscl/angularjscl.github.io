@@ -1,0 +1,17 @@
+[
+  {
+    "twitter" : "eusoj",
+    "name" : "Josué G",
+    "description" : "<b>Organizador Principal</b> y de los meetups en la Ciudad de México"
+  },
+  {
+    "twitter" : "vgarcmr",
+    "name" : "Valeria García",
+    "description" : "Entusiasta de Angular y Organizadora de los Meetups en Querétaro"
+  },
+  {
+    "twitter" : "h1pp1e",
+    "name" : "Jorge Medrano",
+    "description" : "Organizador de los Meetups en Guadalajara"
+  },
+]
