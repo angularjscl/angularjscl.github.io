@@ -4,7 +4,7 @@
     "full_date" : "21 de Febrero, 2015",
     "history" : "Febrero 2015",
     "hour" : "10:00",
-    "icon" : "cdmx.png",
+    "icon" : "blue_cdmx.png",
     "tickets": "http://www.meetup.com/AngularJS-Mexico/events/219944840/",
     "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
     "map" : "https://goo.gl/maps/VrCJj",
@@ -14,18 +14,21 @@
     "speakers" : [
       {
         "twitter" : "axnotliztak",
-	"name" : "Luis F. Lopez Espinosa",
-	"speak": "Famo.us y AngularJS",
+      	"name" : "Luis F. Lopez Espinosa",
+      	"speak": "Famo.us y AngularJS",
+        "description" : "Aprende a integrar el Framework Famou.us y AngularJS."
       },
       {
         "twitter" : "miguelsauza",
         "name" : "Miguel A. Yáñez Sauza",
         "speak": "ArcGIS y AngularJS",
+        "description": "Mapas y Angular, aquí aprenderás otras maneras de integrarlos."
       },
       {
         "twitter" : "xinolou",
         "name" : "Mario Rivas Bonilla",
         "speak": "D3 y AngularJS",
+        "description" : "Descrubre el potencial de utilizar D3 y Angular al momento de graficar"
       },
     ]
   },
@@ -34,7 +37,7 @@
     "full_date" : "21 de Febrero, 2015",
     "history" : "Febrero 2015",
     "hour" : "10:00",
-    "icon" : "gdl2.png",
+    "icon" : "blue_gdl.png",
     "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220079806/",
     "address" : "Indatcom, Lope de Vega 217, Arcos Sur, Guadalajara",
     "map" : "https://goo.gl/maps/ikzoh",
@@ -43,9 +46,10 @@
     "meetup" : "2do",
     "speakers" : [
       {
-        "twitter" : "",
+        "twitter" : "angularjsmx",
         "name" : "Por confirmar",
         "speak": "Por confirmar",
+        "description" : ""
       },
     ]
   },
@@ -54,7 +58,7 @@
     "full_date" : "28 de Febrero, 2015",
     "history" : "Febrero 2015",
     "hour" : "10:00",
-    "icon" : "qro3.png",
+    "icon" : "blue_qro.png",
     "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220091911/",
     "address" : "Qroworking, Av. Hercules Pte. No. 219 - 13, Querétaro",
     "map"     : "https://goo.gl/maps/LmH7u",
@@ -63,19 +67,22 @@
     "meetup" : "1er",
     "speakers" : [
       {
-        "twitter" : "ardroz",
-        "name" : "Daniel Rodriguez",
+        "twitter" : "eusoj",
+        "name" : "Josué G",
         "speak": "ng-community",
+        "description" : "AngularJS es más que un framework, es una comunidad unida y comprometida.",
       },
       {
         "twitter" : "citlacom",
         "name" : "Pablo Cerda",
         "speak": "Angular + Drupal",
+        "description" : "¿Drupal y Angular? Aquí te guiaremos como lograrlo."
       },
       {
         "twitter" : "ehobbsesquire",
         "name" : "Evan Hobbs",
         "speak": "Angular vs Backbone",
+        "description" : "¿Qué elegir?, acá veremos los pros y contras de cada tecnología"
       },
     ]
   }

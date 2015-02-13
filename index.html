@@ -24,7 +24,6 @@ layout: default
   </ul>
 </section>
 
-
 <section class="color-blocks">
   {% for current in site.data.current %}
   <div class="simple-row">
@@ -63,6 +62,50 @@ layout: default
 </section>
 
 
+<a id="platicas" class="in-page-link"></a>
+
+{% for current in site.data.current %}
+
+<section class="speakers duplicatable-content">
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>Pláticas {{current.location_min}}</h1>
+      </div>
+    </div><!--end of row-->
+
+    <div class="row">
+      {% for bio in current.speakers %}
+      <div class="col-md-3 col-sm-12">
+
+        <div class="speaker-with-bio">
+          <div class="speaker">
+            <div class="image-holder">
+              <img class="background-image" alt="Speaker" src="speakers/{{bio.twitter}}.jpg">
+              <div class="hover-state text-center preserve3d">
+                <div class="social-links vertical-align">
+                  <a target="_blank" href="http://twitter.com/{{bio.twitter}}"><i class="icon social_twitter"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="speaker-description">
+            <h2>{{bio.name}}</h2>
+            <span class="sub">{{bio.speak}}</span>
+            <p>{{bio.description}}</p>
+          </div>
+        </div>
+      </div><!--end of individual speaker with bio-->
+      {% endfor %}
+    </div><!--end of row-->
+
+  </div><!--end of container-->
+
+</section>
+{% endfor %}
 
 <a id="galeria" class="in-page-link"></a>
 
@@ -82,8 +125,6 @@ layout: default
     </div><!--end of row-->
   </div><!--end of container-->
 </section>
-
-
 
 <a id="sponsors" class="in-page-link"></a>
 
@@ -112,8 +153,48 @@ layout: default
 
     <div class="row">
       <div class="col-sm-12 text-center">
-        <span>¿Interesado en patrocinar? <a href="mailto:josue.ggh@gmail.com">Contáctanos</a></span>
+        <span>¿Interesado en patrocinar? <a href="mailto:josue.ggh+angularjsmx@gmail.com">Contáctanos</a></span>
       </div>
     </div>
   </div>
+</section>
+
+<a id="historico" class="in-page-link"></a>
+
+<section class="historico">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h1>Histórico</h1>
+      </div>
+    </div><!--end of row-->
+
+    <div class="row">
+     {% for history in site.data.events %}
+     <div class="col-md-2 col-sm-12">
+      <h5>{{history.history}},<br/> {{history.meetup}} meetup {{history.location_min}}</h5>
+      {% for bio in history.speakers %}
+      <div class="speaker-with-bio"><!--INIT-->
+        <div class="speaker">
+          <div class="image-holder">
+            <img class="background-image" alt="Speaker" src="speakers/{{bio.twitter}}.jpg">
+            <div class="hover-state text-center preserve3d">
+              <div class="social-links vertical-align">
+                <a target="_blank" href="http://twitter.com/{{bio.twitter}}"><i class="icon social_twitter"></i></a>                
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="speaker-description-mini">
+          <h2>{{bio.name}}</h2>
+          <span class="sub">{{bio.speak}}</span>
+          
+        </div>
+      </div><!--END-->
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
 </section>

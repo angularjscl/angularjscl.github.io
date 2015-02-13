@@ -1,11 +1,192 @@
 [
   {
-    "date":"Agosto 2014",
-    "location" : "CDMX",
+    "date":"Enero 24",
+    "full_date" : "24 de Enero, 2015",
+    "history" : "Enero 2015",
+    "hour" : "10:00",
+    "icon" : "gdl.png",
+    "location" : "Guadalajara",
+    "location_min" : "GDL",
+    "meetup" : "1er",
     "speakers" : [
       {
-        "twitter" : "eusoj"
-      }
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "ng-community.",
+        "description" : "AngularJS es más que un framework, es una comunidad unida y comprometida."
+      },
+      {
+        "twitter" : "h1pp1e",
+        "name" : "Intro a AngularJS",
+        "speak": "Angular en la vida real: Walmart México.",
+        "description" : "¿Eres nuevo en Angular?, aquí te vamos a explicar como se come."
+      },
+      {
+        "twitter" : "rianet",
+        "name" : "Janel Maldonado",
+        "speak": "Firebase + Angular",
+        "description" : "Firebase salva y muestra tus datos en tiempo real, aquí aprenderas como usarlo con AngularJS."
+      },
+      {
+        "twitter" : "israelgp4",
+        "name" : "Israel Guzmán",
+        "speak": "Angular Phonecat",
+        "description" : "Israel nos dará una introducción de AngularJS y nos explicará los conceptos principales del Framework."
+      },
+    ]
+  },
+  {
+    "date":"Enero 22",
+    "full_date" : "22 de Enero, 2015",
+    "history" : "Enero 2015",
+    "hour" : "10:00",
+    "icon" : "cdmx.png",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "5to",
+    "speakers" : [
+      {
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "AngularFire.",
+        "description" : "La magia de Angular y guardar datos en tiempo real, aquí te enseñamos como."
+      },
+      {
+        "twitter" : "walmartmxycam",
+        "name" : "Carlos González",
+        "speak": "Angular en la vida real: Walmart México.",
+        "description" : "Carlos nos platicará el como Walmart ha ido integrando AngularJS en el desarrollo de su sitio de e-commerce."
+      },
+    ]
+  },
+  {
+    "date":"Noviembre 22",
+    "full_date" : "22 de Noviembre, 2014",
+    "history" : "Noviembre 2014",
+    "hour" : "10:00",
+    "icon" : "cdmx.png",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "4to",
+    "speakers" : [
+      {
+        "twitter" : "andresdom",
+        "name" : "Andres Dominguez",
+        "speak": "Testing a gran Escala",
+      },
+      {
+        "twitter" : "js_dev",
+        "name" : "Aaron Frost",
+        "speak": "ng-perf",
+      },
+    ]
+  },
+  {
+    "date":"Octubre 25",
+    "full_date" : "25 de Octubre, 2014",
+    "history" : "Octubre 2014",
+    "hour" : "10:00",
+    "icon" : "cdmx.png",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "3er",
+    "speakers" : [
+      {
+        "twitter" : "alevardi",
+        "name" : "Amet Alevardi",
+        "speak": "Provider, Service, Factory",
+        "description" : "Amet nos explicará la diferencia entre cada uno de los diferentes Providers de AngularJS.",
+      },
+      {
+        "twitter" : "ardroz",
+        "name" : "Daniel Rodríguez",
+        "speak": "Yo te espero Angular",
+        "description" : "Quieres saber acerca de Promises en AngularJS?, está plática es para ti."
+      },
+      {
+        "twitter" : "rodsilver83",
+        "name" : "Rodrigo Soria",
+        "speak": "Angular en la vida real: Trendyta",
+        "description" : "Rodrigo nos platicará sobre Trendyta y el uso de AngularJS en el proyecto."
+      },
+      {
+        "twitter" : "vampaynani",
+        "name" : "Wenceslao Negrete",
+        "speak": "Ionic 101",
+        "description" : "Aprende a usar ionic, un framework para desarrollo de aplicaciones móviles hibridas que utilizar AngularJS."
+      },
+    ]
+  },
+  {
+    "date":"Septiembre 20",
+    "full_date" : "20 de Septiembre, 2014",
+    "history" : "Septiembre 2014",
+    "hour" : "10:00",
+    "icon" : "cdmx.png",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "2do",
+    "speakers" : [
+      {
+        "twitter" : "alevardi",
+        "name" : "Amet Alevardi",
+        "speak": "Buenas prácticas con AngularJS",
+        "description" : "Amet nos compartirá las buenas prácticas que se deben de tener con AngularJS en el mundo real.",
+      },
+      {
+        "twitter" : "avillat",
+        "name" : "Alberto V.",
+        "speak": "Angular en la vida real: Comparateca",
+        "description" : "Alberto Villa y Rodrigo Contreras nos platicarán sobre Comparateca, los retos técnicos y como AngularJS les fue de ayuda."
+      },
+      {
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "AngularJS + Monkeylearn",
+        "description" : "Josué dará una plática del potencial de utilizar MonkeyLearn con AngularJS."
+      },
+      {
+        "twitter" : "mishudark",
+        "name" : "Mishel Vera",
+        "speak": "jQuery vs AngularJS",
+        "description" : "Mishel Vera nos ayudará a comparar y entender la diferencia entre AngularJS y jQuery."
+      },
+    ]
+  },
+  {
+    "date":"Agosto 30",
+    "full_date" : "30 de Agosto, 2014",
+    "history" : "Agosto 2014",
+    "hour" : "10:00",
+    "icon" : "cdmx.png",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "1er",
+    "speakers" : [
+      {
+        "twitter" : "jeduan",
+        "name" : "Jeduan",
+        "speak": "Login con AngularJS + NodeJS",
+        "description" : "Jeduan nos platicará su experiencia armando un sistema de Login con AngularJS y NodeJS en la parte del servidor.",
+      },
+      {
+        "twitter" : "bul_ikana",
+        "name" : "Hugo Aguirre",
+        "speak": "Angular en la vida real: Ubicla",
+        "description" : "Hugo nos presentará Ubicla, una aplicación móvil que permite visualizar rutas de bicicletas, construido con AngularJS y Phonegap."
+      },
+      {
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "Angular vs Backbone",
+        "description" : "Josué dará una plática de que son las directivas, como se utilizan y para que nos serían utiles."
+      },
+      {
+        "twitter" : "israelgp4",
+        "name" : "Israel Guzmán",
+        "speak": "Tutorial: Angular Phonecat",
+        "description" : "Israel nos dará una introducción de AngularJS y nos explicará los conceptos principales del Framework."
+      },
     ]
   }
 ]

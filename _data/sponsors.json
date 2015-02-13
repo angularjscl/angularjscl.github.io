@@ -10,6 +10,11 @@
     "url" : "#",
   },
   {
+    "name" : "Vinco Orbis",
+    "img"  : "vincoorbis.png",
+    "url" : "http://vincoorbis.com/",
+  },
+  {
     "name" : "Xpertys",
     "img"  : "xpertys.png",
     "url" : "http://xpertys.com.mx/",

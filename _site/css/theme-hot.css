@@ -1199,6 +1199,20 @@ nav .container {
 .color-blocks .simple-row:nth-child(3){
   background: #9E2929;
 }
+
+.blue .color-blocks .simple-row:nth-child(1){
+  background: #03a9f4;
+}
+.blue .color-blocks .simple-row:nth-child(2){
+  background: #039be5;
+}
+.blue .color-blocks .simple-row:nth-child(3){
+  background: #0277bd;
+}
+.blue .speaker-description span{
+  color: #03a9f4 !important;
+}
+
 .block-center{
   background: #b52d30;
   left: 33.3333333%;
@@ -1328,7 +1342,7 @@ nav .container {
   font-size: 12px;
 }
 .speaker-description-mini h2{
-  font-size: 14px;
+  font-size: 13px;
 }
 .speaker-description-mini span{
   font-size: 12px;

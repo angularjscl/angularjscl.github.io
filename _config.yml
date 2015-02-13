@@ -1,7 +1,7 @@
 # Site settings
 title: AngularJS México
 email: josue.ggh@gmail.com
-description: "En este sitio podras encontrar información sobre los diferentes meetups del país relacionados a AngularJS."
+description: "En AngularJS México encontrarás la información de todos los meetups del país. Actualmente en Ciudad de México, Guadalara y Querétaro."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://angularjsmexico.com" # the base hostname & protocol for your site
 twitter_username: angularjsmexico
