@@ -46,10 +46,10 @@
     "meetup" : "2do",
     "speakers" : [
       {
-        "twitter" : "angularjsmx",
-        "name" : "Por confirmar",
-        "speak": "Por confirmar",
-        "description" : ""
+        "twitter" : "agnosticmusic",
+        "name" : "Gilberto Avalos",
+        "speak": "Aplicaciones móviles con Ionic",
+        "description" : "Daremos un vistazo a ionic, un framework para realizar aplicaciones móviles que utiliza Angular."
       },
     ]
   },
