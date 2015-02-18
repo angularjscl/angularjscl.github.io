@@ -31,59 +31,5 @@
         "description" : "Descrubre el potencial de utilizar D3 y Angular al momento de graficar"
       },
     ]
-  },
-  {
-    "date":"Febrero 21",
-    "full_date" : "21 de Febrero, 2015",
-    "history" : "Febrero 2015",
-    "hour" : "10:00",
-    "icon" : "blue_gdl.png",
-    "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220079806/",
-    "address" : "Indatcom, Lope de Vega 217, Arcos Sur, Guadalajara",
-    "map" : "https://goo.gl/maps/ikzoh",
-    "location" : "Guadalajara",
-    "location_min" : "GDL",
-    "meetup" : "2do",
-    "speakers" : [
-      {
-        "twitter" : "agnosticmusic",
-        "name" : "Gilberto Avalos",
-        "speak": "Aplicaciones móviles con Ionic",
-        "description" : "Daremos un vistazo a ionic, un framework para realizar aplicaciones móviles que utiliza Angular."
-      },
-    ]
-  },
-  {
-    "date":"Febrero 28",
-    "full_date" : "28 de Febrero, 2015",
-    "history" : "Febrero 2015",
-    "hour" : "10:00",
-    "icon" : "blue_qro.png",
-    "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220091911/",
-    "address" : "Qroworking, Av. Hercules Pte. No. 219 - 13, Querétaro",
-    "map"     : "https://goo.gl/maps/LmH7u",
-    "location" : "Querétaro",
-    "location_min" : "QRO",
-    "meetup" : "1er",
-    "speakers" : [
-      {
-        "twitter" : "eusoj",
-        "name" : "Josué G",
-        "speak": "ng-community",
-        "description" : "AngularJS es más que un framework, es una comunidad unida y comprometida.",
-      },
-      {
-        "twitter" : "citlacom",
-        "name" : "Pablo Cerda",
-        "speak": "Angular + Drupal",
-        "description" : "¿Drupal y Angular? Aquí te guiaremos como lograrlo."
-      },
-      {
-        "twitter" : "ehobbsesquire",
-        "name" : "Evan Hobbs",
-        "speak": "Angular vs Backbone",
-        "description" : "Evan nos mostrará lo valioso de cada tecnología"
-      },
-    ]
   }
 ]

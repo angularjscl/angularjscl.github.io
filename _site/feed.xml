@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AngularJS México</title>
-    <description>En este sitio podras encontrar información sobre los diferentes meetups del país relacionados a AngularJS.</description>
-    <link>http://angularjsmexico.com/</link>
-    <atom:link href="http://angularjsmexico.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Feb 2015 23:52:59 -0600</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2015 23:52:59 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.2</generator>
+    <title>AngularJS Chile</title>
+    <description>En AngularJS México encontrarás la información de todos los meetups del país. Actualmente en Ciudad de México, Guadalara y Querétaro.</description>
+    <link>http://angularjs.cl/</link>
+    <atom:link href="http://angularjs.cl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Feb 2015 12:30:06 -0300</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2015 12:30:06 -0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -26,9 +26,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 08 Feb 2015 15:47:50 -0600</pubDate>
-        <link>http://angularjsmexico.com/jekyll/update/2015/02/08/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://angularjsmexico.com/jekyll/update/2015/02/08/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 08 Feb 2015 18:47:50 -0300</pubDate>
+        <link>http://angularjs.cl/jekyll/update/2015/02/08/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://angularjs.cl/jekyll/update/2015/02/08/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

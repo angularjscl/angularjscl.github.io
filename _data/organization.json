@@ -1,17 +1,12 @@
 [
   {
-    "twitter" : "eusoj",
-    "name" : "Josué G",
-    "description" : "<b>Organizador Principal</b> y de los meetups en la Ciudad de México"
+    "twitter" : "gbelmm",
+    "name" : "Gabriel Muñoz",
+    "description" : "<b>Organizador</b>"
   },
   {
-    "twitter" : "vgarcmr",
-    "name" : "Valeria García",
-    "description" : "Organizadora de los Meetups en Querétaro"
-  },
-  {
-    "twitter" : "h1pp1e",
-    "name" : "Jorge Medrano",
-    "description" : "Organizador de los Meetups en Guadalajara"
-  },
+    "twitter" : "saidGeeK",
+    "name" : "Andres Said Espinance",
+    "description" : "<b>Organizador</b>"
+  }
 ]

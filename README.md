@@ -1,4 +1,4 @@
 mainsite
 ========
 
-Sitio principal de AngularJS México
+Sitio principal de AngularJS Chile
