@@ -2,11 +2,21 @@
   {
     "twitter" : "gbelmm",
     "name" : "Gabriel Muñoz",
-    "description" : "<b>Organizador</b>"
+    "description" : "<b></b>"
   },
   {
     "twitter" : "saidGeeK",
     "name" : "Andres Said Espinance",
-    "description" : "<b>Organizador</b>"
+    "description" : "<b></b>"
+  },
+  {
+    "twitter" : "estebanzeus",
+    "name" : "Esteban Moreno",
+    "description" : "<b></b>"
+  },
+  {
+    "twitter" : "alvaroveliz",
+    "name" : "Alvaro Véliz",
+    "description" : "<b></b>"
   }
 ]

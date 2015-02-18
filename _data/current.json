@@ -1,35 +1,23 @@
 [
   {
-    "date":"Febrero 21",
-    "full_date" : "21 de Febrero, 2015",
+    "date":"11-02-2015",
+    "full_date" : "11 de Febrero, 2015",
     "history" : "Febrero 2015",
-    "hour" : "10:00",
+    "hour" : "19:00",
     "icon" : "blue_cdmx.png",
-    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/219944840/",
-    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
-    "map" : "https://goo.gl/maps/VrCJj",
-    "location" : "Ciudad de México",
-    "location_min" : "CDMX",
-    "meetup" : "6to",
+    "tickets": "http://www.meetup.com/dynlangchile/events/219248560/",
+    "address": "Ramón Carnicer 17 OF:3,Providencia, santiago",
+    "map" : "http://maps.google.com/maps?f=q&hl=en&q=Ram%C3%B3n+Carnicer+17+OF%3A3%2C+Santiago%2C+cl",
+    "location" : "Santiago",
+    "location_min" : "Stgo",
+    "meetup" : "2to",
     "speakers" : [
       {
-        "twitter" : "axnotliztak",
-      	"name" : "Luis F. Lopez Espinosa",
-      	"speak": "Famo.us y AngularJS",
-        "description" : "Aprende a integrar el Framework Famou.us y AngularJS."
-      },
-      {
-        "twitter" : "miguelsauza",
-        "name" : "Miguel A. Yáñez Sauza",
-        "speak": "ArcGIS y AngularJS",
-        "description": "Mapas y Angular, aquí aprenderás otras maneras de integrarlos."
-      },
-      {
-        "twitter" : "xinolou",
-        "name" : "Mario Rivas Bonilla",
-        "speak": "D3 y AngularJS",
-        "description" : "Descrubre el potencial de utilizar D3 y Angular al momento de graficar"
-      },
-    ]
+        "twitter" : "gbelmm",
+      	"name" : "Gabriel Muñoz Madrid",
+      	"speak": "Intro AngularJS",
+        "description" : "introduccion Angularjs."
+      }
+      ]
   }
 ]

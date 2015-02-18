@@ -1,38 +1,26 @@
 [
   {
-    "date":"Enero 19",
-    "full_date" : "19 de Enero, 2015",
+    "date":"Enero 29",
+    "full_date" : "29 de Enero, 2015",
     "history" : "Enero 2015",
     "hour" : "19:00",
     "icon" : "gdl.png",
     "location" : "GDG",
     "location_min" : "GDL",
-    "meetup" : "1er",
+    "meetup" : "Google Day X",
     "speakers" : [
       {
-        "twitter" : "eusoj",
-        "name" : "Josué G",
-        "speak": "ng-community.",
-        "description" : "AngularJS es más que un framework, es una comunidad unida y comprometida."
+        "twitter" : "saidGeeK",
+        "name" : "Andres Said Espinance",
+        "speak": "Intro a Angularjs",
+        "description" : "AngularJS introducción."
       },
       {
-        "twitter" : "h1pp1e",
-        "name" : "Jorge Medrano",
-        "speak": "Intro a AngularJS.",
-        "description" : "¿Eres nuevo en Angular?, aquí te vamos a explicar como se come."
-      },
-      {
-        "twitter" : "rianet",
-        "name" : "Janel Maldonado",
-        "speak": "Firebase + Angular",
-        "description" : "Firebase salva y muestra tus datos en tiempo real, aquí aprenderas como usarlo con AngularJS."
-      },
-      {
-        "twitter" : "israelgp4",
-        "name" : "Israel Guzmán",
-        "speak": "Angular Phonecat",
-        "description" : "Israel nos dará una introducción de AngularJS y nos explicará los conceptos principales del Framework."
-      },
+        "twitter" : "gbelmm",
+        "name" : "Gabriel Muñoz",
+        "speak": "Demo Angularjs.",
+        "description" : "Ejemplo Angularjs con API TheMovieDB. "
+      }
     ]
   }
 ]
