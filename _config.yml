@@ -1,7 +1,7 @@
 # Site settings
 title: AngularJS Chile
 email: contacto@angularjs.cl
-description: "En AngularJS México encontrarás la información de todos los meetups del país. Actualmente en Ciudad de México, Guadalara y Querétaro."
+description: "En AngularJS México encontrarás la información de todos los meetups Chile."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://angularjs.cl" # the base hostname & protocol for your site
 twitter_username: angularjschile
